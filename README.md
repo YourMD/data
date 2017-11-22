@@ -8,7 +8,7 @@ The test dictionary is located here:
 
 https://github.com/YourMD/data/blob/master/phrases.zip?raw=true
 
-## Example imput and output (logical):
+## Example input and output (logical):
 
 Input: ```I have a sore throat and headache.```
 
