@@ -31,3 +31,4 @@ The micro-service should listen on port 8080, and should accept the input as a q
 * If the framework you use is single-threaded by default, you may want to provide a multi-threaded version also
 * Test your code, and your API. No need to test every permutation, but demonstrate you know the types of things to test for.
 * Even though this is a simplified requirement as appropriate to being an exercise, your code should be production capable
+* Show your working, if you've used any interesting libraries or approaches during development let us know and explain why in the readme. 
