@@ -22,7 +22,7 @@ The micro-service should listen on port 8080, and should accept the input as a q
 
 ## Requirements
 
-* Use appropriate production-capable frameworks (E.g. Spring Boot/Micronaut/Vert.x/Quarkus/you-name-it for Java/Groovy, others as appropriate for Node.js or Python)
+* Use appropriate production-capable frameworks (E.g. Spring Boot/Micronaut/Vert.x/Quarkus/KTor/you-name-it for Java/Groovy/Kotlin, others as appropriate for Node.js or Python)
 * Use appropriate dependency-management and build tools (E.g. Gradle for Java/Groovy, others as appropriate for Node.js or Python)
 * The project's structure and organization should follow best practices
 * Don't reimplement the wheel, reuse
